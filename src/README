@@ -8,3 +8,13 @@ Filelist
 helloworld.py
   My very first python script.
   Hello World!
+
+links.txt
+  Source related links
+
+loop-over-files.py
+  Loop over files in current working dirctory
+  and print filenames.
+
+  How to loop over files with Python?
+  https://stackoverflow.com/questions/11801309/how-to-loop-over-files-with-python/11801336
