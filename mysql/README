@@ -11,3 +11,8 @@ links.txt
 mysql.txt
   MySQL database access
 
+MySQLdb.txt
+  MySQLdb is an thread-compatible interface to the popular MySQL database
+  server that provides the Python database API.   
+  http://mysql-python.sourceforge.net/MySQLdb.html
+
