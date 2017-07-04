@@ -1,0 +1,19 @@
+MySQLdb.txt
+Created Tue Jul  4 10:42:18 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+MySQLdb is an thread-compatible interface to the popular MySQL database
+server that provides the Python database API.[1]
+
+
+--mysql-python.sourceforge.net/MySQLdb.html
+
+
+Links
+=====
+[1] MySQLdb User Guide Introduction
+http://mysql-python.sourceforge.net/MySQLdb.html#introduction
+
+MySQLdb User Guide
+http://mysql-python.sourceforge.net/MySQLdb.html
