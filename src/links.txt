@@ -1,0 +1,15 @@
+links.txt
+Created Tue Jul  4 09:58:59 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Source related links
+
+
+Links
+=====
+How to loop over files with Python?
+https://stackoverflow.com/questions/11801309/how-to-loop-over-files-with-python/11801336
+
+Hello, World!
+https://www.learnpython.org/en/Hello%2C_World%21
