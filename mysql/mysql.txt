@@ -1,0 +1,7 @@
+mysql.txt
+Created Tue Jul  4 10:23:43 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+MySQL database access
+
