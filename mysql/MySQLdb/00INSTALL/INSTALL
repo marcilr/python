@@ -1,0 +1,108 @@
+INSTALL
+Created Tue Jul  4 10:53:24 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Installation of MySQLdb on Debian jessie 8.8 amd64
+using pip ("Pip Installs Packages" or "Pip Installs Python")[1]
+
+1. Check python version:
+covellite:~$ python
+Python 2.7.9 (default, Jun 29 2016, 13:08:31) 
+[GCC 4.9.2] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> ctrl-d
+covellite:~$ 
+
+Looks like python v2.7.9
+
+2. Install pip dependencies:
+# aptitude install python-pip python-dev libmysqlclient-dev
+The following NEW packages will be installed:
+  python-cffi{a} python-colorama{a} python-cryptography{a} 
+  python-distlib{a} python-html5lib{a} python-ndg-httpsclient{a} 
+  python-openssl{a} python-pip python-ply{a} python-pyasn1{a} 
+  python-pycparser{a} python-requests{a} python-setuptools{a} 
+  python-urllib3{a} python-wheel{a} 
+0 packages upgraded, 15 newly installed, 0 to remove and 1 not upgraded.
+Need to get 1,384 kB of archives. After unpacking 6,423 kB will be used.
+Do you want to continue? [Y/n/?] Y
+...
+Unpacking python-wheel (0.24.0-1) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up python-ply (3.4-5) ...
+Setting up python-pycparser (2.10+dfsg-3) ...
+Setting up python-cffi (0.8.6-1) ...
+Setting up python-colorama (0.3.2-1) ...
+Setting up python-cryptography (0.6.1-1+deb8u1) ...
+Setting up python-distlib (0.1.9-1) ...
+Setting up python-html5lib (0.999-3) ...
+Setting up python-openssl (0.14-1) ...
+Setting up python-ndg-httpsclient (0.3.2-1) ...
+Setting up python-urllib3 (1.9.1-3) ...
+Setting up python-requests (2.4.3-6) ...
+Setting up python-setuptools (5.5.1-1) ...
+Setting up python-pip (1.5.6-5) ...
+Setting up python-pyasn1 (0.1.7-1) ...
+Setting up python-wheel (0.24.0-1) ...
+Processing triggers for python-support (1.0.15) ...
+                                         
+covellite:~# 
+
+covellite:~# type pip
+pip is /usr/bin/pip
+covellite:~# 
+
+Looks good
+
+3. Install MySQLdb:
+covellite:~# pip install MySQL-python
+Downloading/unpacking MySQL-python
+  Downloading MySQL-python-1.2.5.zip (108kB): 108kB downloaded
+  Running setup.py (path:/tmp/pip-build-dg9_y3/MySQL-python/setup.py) \
+egg_info for package MySQL-python
+    
+Installing collected packages: MySQL-python
+  Running setup.py install for MySQL-python
+...
+Successfully installed MySQL-python
+Cleaning up...
+covellite:~#
+
+4. Verify MySQLdb installation:[2]
+covellite:~$ python
+Python 2.7.9 (default, Jun 29 2016, 13:08:31) 
+[GCC 4.9.2] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> help("modules")
+ANSI
+BaseHTTPServer
+Bastion
+...
+MySQLdb
+...
+zlib
+
+Enter any module name to get more help.  Or, type "modules spam" to search
+for modules whose descriptions contain the word "spam".
+
+>>> quit()
+covellite:~$
+
+Looks good!
+
+
+Links
+=====
+[1] pip (package manager) - Wikipedia
+pip is a recursive acronym that can stand for either
+"Pip Installs Packages" or "Pip Installs Python".
+https://en.wikipedia.org/wiki/Pip_(package_manager)
+
+[2] python : list all packages installed
+Revath S Kumar
+Alone I can't make this world better, so I do open source.
+http://blog.revathskumar.com/
+
+How to install Python MySQLdb module using pip?
+https://stackoverflow.com/questions/25865270/how-to-install-python-mysqldb-module-using-pip
