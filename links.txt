@@ -8,5 +8,11 @@ Python related links
 
 Links
 =====
+Beginner's Guide to Python
+https://wiki.python.org/moin/BeginnersGuide
+
 Python
 https://www.python.org/
+
+Python For Beginners
+https://www.python.org/about/gettingstarted/
