@@ -6,6 +6,11 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Python
 
 
+Version on Debian jessie 8.8 amd64:
+  $ python --version
+  Python 2.7.9
+
+
 Links
 =====
 Python
