@@ -8,6 +8,9 @@ Filelist
 links.txt
   Python related links
 
+mysql/
+  MySQL database access
+
 python.txt
   Python
   https://www.python.org/
