@@ -5,3 +5,27 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 MySQL database access
 
+
+Getting started
+===============
+Access to MySQL databases is through the MySQLdb module.  It’s available
+in the python-mysqldb package for Debian/Ubuntu users.
+
+Your first step in any Python code is:
+
+import MySQLdb
+
+
+--ianhowson.com/blog/a-quick-guide-to-using-mysql-in-python/
+
+
+
+Links
+=====
+A quick guide to using MySQL in Python
+by Ian Howson - 3 Jul 2011
+Need to access some MySQL databases in Python right now?
+As in now, really, I don’t have time to read stuff,
+and please stop rambling because you’re wasting my time now?
+Read on!
+https://ianhowson.com/blog/a-quick-guide-to-using-mysql-in-python/
