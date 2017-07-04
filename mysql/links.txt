@@ -8,4 +8,10 @@ MySQL database access related links
 
 Links
 =====
-
+A quick guide to using MySQL in Python
+by Ian Howson - 3 Jul 2011
+Need to access some MySQL databases in Python right now?
+As in now, really, I don’t have time to read stuff,
+and please stop rambling because you’re wasting my time now?
+Read on!
+https://ianhowson.com/blog/a-quick-guide-to-using-mysql-in-python/
