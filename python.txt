@@ -6,6 +6,18 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Python
 
 
+"Python combines remarkable power with very clear syntax.
+It has modules, classes, exceptions, very high level dynamic
+data types, and dynamic typing. There are interfaces to many
+system calls and libraries, as well as to various windowing
+systems.  New built-in modules are easily written in C or C++
+(or other languages, depending on the chosen implementation).
+Python is also usable as an extension language for applications
+written in other languages that need easy-to-use scripting or
+automation interfaces."
+--wiki.python.org/moin/
+
+
 Version on Debian jessie 8.8 amd64:
   $ python --version
   Python 2.7.9
@@ -15,3 +27,6 @@ Links
 =====
 Python
 https://www.python.org/
+
+The Python Wiki
+https://wiki.python.org/moin/
