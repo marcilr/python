@@ -1,0 +1,12 @@
+python.txt
+Created Tue Jul  4 09:44:37 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Python
+
+
+Links
+=====
+Python
+https://www.python.org/
