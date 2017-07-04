@@ -29,6 +29,14 @@ Version on Debian jessie 8.8 amd64:
   >>> quit()
   covellite:~$ 
 
+  prod-prov4-cdr1 ~]# python
+  Python 2.4.3 (#1, Dec 22 2011, 12:12:01) 
+  [GCC 4.1.2 20080704 (Red Hat 4.1.2-50)] on linux2
+  Type "help", "copyright", "credits" or "license" for more information.
+  >>> ctrl-d
+  prod-prov4-cdr1 ~]#
+
+
 
 Links
 =====
