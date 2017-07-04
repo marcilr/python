@@ -21,5 +21,9 @@ https://www.python.org/
 Python For Beginners
 https://www.python.org/about/gettingstarted/
 
+re — Regular expression operation
+The Python Standard Library
+https://docs.python.org/2/library/re.html
+
 The Python Wiki
 https://wiki.python.org/moin/
