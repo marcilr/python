@@ -16,6 +16,14 @@ and please stop rambling because you’re wasting my time now?
 Read on!
 https://ianhowson.com/blog/a-quick-guide-to-using-mysql-in-python/
 
+Interact with SQL database using only Python 2.4
+There is a Python MySQL Module, called MySQLDB,
+which supports Python 2.3-2.7:
+  http://sourceforge.net/projects/mysql-python/
+User Guide can be found here:
+  http://mysql-python.sourceforge.net/MySQLdb.html
+https://stackoverflow.com/questions/7226131/interact-with-sql-database-using-only-python-2-4
+
 MySQL for Python
 MySQL database connector for Python programming
 This is MySQLdb
@@ -30,3 +38,6 @@ Python database adaptor for MySQL, MariaDB, Drizzle,
 and other watery databases
 Python-2.7 and also be compatible with Python-3.x
 https://github.com/farcepest/moist         <=== 2.x release of MySQLdb
+
+MySQLdb User's Guide
+http://mysql-python.sourceforge.net/MySQLdb.html
