@@ -22,6 +22,10 @@ which supports Python 2.3-2.7:
   http://sourceforge.net/projects/mysql-python/
 User Guide can be found here:
   http://mysql-python.sourceforge.net/MySQLdb.html
+Check out pysqlite. It is the same module as in the
+newer python versions and I have used it no prob in
+2.4 before.
+  http://trac.edgewall.org/wiki/PySqlite
 https://stackoverflow.com/questions/7226131/interact-with-sql-database-using-only-python-2-4
 
 MySQL for Python
