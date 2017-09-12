@@ -1,0 +1,6 @@
+conf.txt
+Created Tue Sep 12 11:37:15 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Configuration
