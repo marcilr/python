@@ -8,5 +8,8 @@ MySQLdb related links
 
 Links
 =====
+MySQLdb User's Guide
+http://mysql-python.sourceforge.net/MySQLdb.html
+
 Python MySQL Database Access
 https://www.tutorialspoint.com/python/python_database_access.htm
