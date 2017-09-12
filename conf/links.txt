@@ -10,3 +10,7 @@ Links
 =====
 Best way to retrieve variable values from a text file - Python - Json
 https://stackoverflow.com/questions/924700/best-way-to-retrieve-variable-values-from-a-text-file-python-json
+
+How to parse a DOT file in Python
+Interesting graphic manipulation here
+https://stackoverflow.com/questions/28313901/how-to-parse-a-dot-file-in-python
