@@ -1,0 +1,17 @@
+packages.txt
+Created Tue Sep 12 11:11:37 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Packages for MySQLdb
+
+
+Packages
+========
+python-pip - alternative Python package installer
+python-dev - header files and a static library for Python (default)
+libmysqlclient-dev - MySQL database development files
+
+To install:
+
+# aptitude install python-pip python-dev libmysqlclient-dev
