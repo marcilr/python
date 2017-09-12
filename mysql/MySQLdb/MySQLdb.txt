@@ -5,9 +5,12 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 MySQLdb is an thread-compatible interface to the popular MySQL database
 server that provides the Python database API.[1]
-
-
 --mysql-python.sourceforge.net/MySQLdb.html
+
+MySQLdb is an interface for connecting to a MySQL database server from
+Python.  It implements the Python Database API v2.0 and is built on top
+of the MySQL C API.
+--www.tutorialspoint.com/python/python_database_access.htm
 
 
 Links
@@ -17,3 +20,7 @@ http://mysql-python.sourceforge.net/MySQLdb.html#introduction
 
 MySQLdb User Guide
 http://mysql-python.sourceforge.net/MySQLdb.html
+
+Python MySQL Database Access
+https://www.tutorialspoint.com/python/python_database_access.htm
+
