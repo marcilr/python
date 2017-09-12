@@ -16,6 +16,11 @@ and please stop rambling because you’re wasting my time now?
 Read on!
 https://ianhowson.com/blog/a-quick-guide-to-using-mysql-in-python/
 
+How to parse a DOT file in Python
+Some very interesting graphics with python.
+Noting here for completeness.
+https://stackoverflow.com/questions/28313901/how-to-parse-a-dot-file-in-python
+
 Interact with SQL database using only Python 2.4
 There is a Python MySQL Module, called MySQLDB,
 which supports Python 2.3-2.7:
