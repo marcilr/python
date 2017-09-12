@@ -8,4 +8,5 @@ Configuration related links
 
 Links
 =====
-
+Best way to retrieve variable values from a text file - Python - Json
+https://stackoverflow.com/questions/924700/best-way-to-retrieve-variable-values-from-a-text-file-python-json
