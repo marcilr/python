@@ -24,6 +24,9 @@ https://www.python.org/
 Python For Beginners
 https://www.python.org/about/gettingstarted/
 
+Python HOWTOs
+https://docs.python.org/3/howto/index.html
+
 re — Regular expression operation
 The Python Standard Library
 https://docs.python.org/2/library/re.html
