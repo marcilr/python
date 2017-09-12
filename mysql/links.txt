@@ -50,3 +50,8 @@ https://github.com/farcepest/moist         <=== 2.x release of MySQLdb
 
 MySQLdb User's Guide
 http://mysql-python.sourceforge.net/MySQLdb.html
+
+Python MySQL Database Access               <===
+Some good code here
+https://www.tutorialspoint.com/python/python_database_access.htm
+
