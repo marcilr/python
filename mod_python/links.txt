@@ -8,6 +8,11 @@ mod_python related links
 
 Links
 =====
+Embedding Python In Apache2 With mod_python (Debian Etch)
+Version 1.0 
+Author: Falko Timme
+https://www.howtoforge.com/embedding-python-in-apache2-with-mod_python-debian-etch
+
 mod_python github
 https://github.com/grisha/mod_python
 
