@@ -55,3 +55,5 @@ Python MySQL Database Access               <===
 Some good code here
 https://www.tutorialspoint.com/python/python_database_access.htm
 
+Python MySQL Query
+http://www.mysqltutorial.org/python-mysql-query/
