@@ -1,0 +1,13 @@
+TODO
+Created Thu Sep 14 08:07:27 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
++++ Thu Sep 14 08:07:27 AKDT 2017 - Inline documentation?
+
++++ Thu Sep 14 08:07:27 AKDT 2017 - Query MySQL database queries and
+    processing of results.
+
++++ Thu Sep 14 08:07:27 AKDT 2017 - Create module to read name/value
+    pairs from configuration file to dictionary.
+
