@@ -14,3 +14,6 @@ https://stackoverflow.com/questions/924700/best-way-to-retrieve-variable-values-
 How to parse a DOT file in Python
 Interesting graphic manipulation here
 https://stackoverflow.com/questions/28313901/how-to-parse-a-dot-file-in-python
+
+How to use ConfigParser in Python
+http://www.pythonforbeginners.com/code-snippets-source-code/how-to-use-configparser-in-python
