@@ -1,0 +1,28 @@
+books.txt
+Created Fri Sep 15 09:26:59 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Books for python
+
+
+Learning Python, 5th EditionJul 6, 2013
+by Mark Lutz
+"Complete with quizzes, exercises, and helpful illustrations,
+this easy-to-follow, self-paced tutorial gets you started with
+both Python 2.7 and 3.3— the latest releases in the 3.X and
+2.X lines—plus all other releases in common use today.  You’ll
+also learn some advanced language features that recently have
+become more common in Python code."
+price: $30.49 kindle (amazon - Sep 15, 2017)
+https://www.amazon.com/Learning-Python-Powerful-Object-Oriented-Programming-ebook/dp/B00DDZPC9S/ref=mt_kindle?_encoding=UTF8&me=
+
+Python Cookbook: Recipes for Mastering Python 3 3rd Edition, Kindle Edition
+by David Beazley (Author), Brian K. Jones  (Author)
+price: $23.49 kindle (amazon - Sep 15, 2017)
+https://www.amazon.com/Python-Cookbook-Recipes-Mastering-ebook/dp/B00DQV4GGY/ref=pd_sim_351_3?_encoding=UTF8&psc=1&refRID=6AK326WR2TTA4KM0N616
+
+The Hitchhiker's Guide to Python: Best Practices for Development 1st Edition, Kindle Edition
+by Kenneth Reitz (Author), Tanya Schlusser (Author)
+price: $12.99 kindle (amazon - Sep 15, 2017)
+
