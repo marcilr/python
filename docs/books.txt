@@ -6,6 +6,11 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Books for python
 
 
+Hacking Made Simple: Full Beginners Guide To Master Hacking Kindle Edition   <===
+by Project Syntax
+price: $2.99 kindle (amazon - Sep 15, 2017)
+https://www.amazon.com/Hacking-Made-Simple-Beginners-Master-ebook/dp/B0733CH8X8/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=B1PA9NT8F7QDGDN4K4KZ
+
 Learning Python, 5th EditionJul 6, 2013
 by Mark Lutz
 "Complete with quizzes, exercises, and helpful illustrations,
@@ -17,10 +22,21 @@ become more common in Python code."
 price: $30.49 kindle (amazon - Sep 15, 2017)
 https://www.amazon.com/Learning-Python-Powerful-Object-Oriented-Programming-ebook/dp/B00DDZPC9S/ref=mt_kindle?_encoding=UTF8&me=
 
+Python and Hacking Made Simple: Full Beginners Bundle        <===
+To Master Python and Hacking (2 Books in 1) Kindle Edition
+by Project Syntax
+price: $4.99 (amazon - September 15, 217)
+https://www.amazon.com/Python-Hacking-Made-Simple-Beginners-ebook/dp/B0733BJJ6C/ref=pd_sbs_351_1?_encoding=UTF8&psc=1&refRID=6GWXW6RM3TE077DPF05P
+
 Python Cookbook: Recipes for Mastering Python 3 3rd Edition, Kindle Edition
 by David Beazley (Author), Brian K. Jones  (Author)
 price: $23.49 kindle (amazon - Sep 15, 2017)
 https://www.amazon.com/Python-Cookbook-Recipes-Mastering-ebook/dp/B00DQV4GGY/ref=pd_sim_351_3?_encoding=UTF8&psc=1&refRID=6AK326WR2TTA4KM0N616
+
+Python Made Simple: Full Beginner’s Guide to Mastering Python Kindle Edition   <===
+by Project Syntax
+price: $2.99 kindle (amazon - Sep 15, 2017)
+https://www.amazon.com/Python-Made-Simple-Beginners-Mastering-ebook/dp/B071G3652S/ref=pd_sim_351_4?_encoding=UTF8&psc=1&refRID=C6VDCNKZTXDKSSYMWR1B
 
 The Hitchhiker's Guide to Python: Best Practices for Development 1st Edition, Kindle Edition
 by Kenneth Reitz (Author), Tanya Schlusser (Author)
