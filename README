@@ -8,6 +8,9 @@ Filelist
 conf/
   Configuration
 
+docs/
+  Documentation
+
 links.txt
   Python related links
 
