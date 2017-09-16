@@ -17,6 +17,9 @@ links.txt
 mysql/
   MySQL database access
 
+packages/
+  Python packages
+
 python.txt
   Python
   https://www.python.org/
