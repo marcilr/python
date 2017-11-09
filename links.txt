@@ -8,6 +8,9 @@ Python related links
 
 Links
 =====
+17.2. socket — Low-level networking interface
+https://docs.python.org/2/library/socket.html#example
+
 Beginner's Guide to Python
 https://wiki.python.org/moin/BeginnersGuide
 
@@ -24,6 +27,9 @@ https://www.python.org/
 Python For Beginners
 https://www.python.org/about/gettingstarted/
 
+Python Get Request
+http://pythonexample.com/code/python-get-request/
+
 Python HOWTOs
 https://docs.python.org/3/howto/index.html
 
@@ -33,3 +39,7 @@ https://docs.python.org/2/library/re.html
 
 The Python Wiki
 https://wiki.python.org/moin/
+
+while (1) Vs. for while(True) — Why is there a difference?
+The Python Standard Library
+https://stackoverflow.com/questions/3815359/while-1-vs-for-whiletrue-why-is-there-a-difference
