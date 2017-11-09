@@ -1,0 +1,44 @@
+pip.txt
+Created Sat Sep 16 10:24:42 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+pip - A tool for installing and managing Python packages
+
+
+Synopsys
+       pip <command> [options]
+
+       pip3 <command> [options]
+
+Description
+       pip  is  a  Python package installer, recommended for installing Python packages which are
+       not available in the Debian archive.  It can work with version control repositories  (cur‐
+       rently  only  Git,  Mercurial, and Bazaar repositories), logs output extensively, and pre‐
+       vents partial installs by downloading all requirements before starting installation.
+
+       On Debian, pip is the command to use when installing packages for Python 2, while pip3  is
+       the command to use when installing packages for Python 3.
+
+Commands
+       The command comes before any options.  The following commands are recognized:
+
+       help   Show help for commands.
+
+       install
+              Install packages.
+
+       uninstall
+              Uninstall packages.
+
+       freeze Output installed packages in requirements format.
+
+       list   List installed packages.
+
+       show   Show information about installed packages.
+
+       search Search PyPI for packages.
+
+       wheel  Build wheels from your requirements.
+
+--man
