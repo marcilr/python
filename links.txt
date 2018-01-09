@@ -40,6 +40,14 @@ https://docs.python.org/2/library/re.html
 The Python Wiki
 https://wiki.python.org/moin/
 
+Web Applications & Frameworks   <===
+Good docs and details here
+o WSGI (The Web Server Gateway Interface)
+o Great list of WSGI Servers
+o Stand-alone WSGI servers typically use less resources
+  than traditional web servers and provide top performance.
+http://docs.python-guide.org/en/latest/scenarios/web/#id17
+
 while (1) Vs. for while(True) — Why is there a difference?
 The Python Standard Library
 https://stackoverflow.com/questions/3815359/while-1-vs-for-whiletrue-why-is-there-a-difference
