@@ -40,4 +40,5 @@ https://www.amazon.com/Python-Made-Simple-Beginners-Mastering-ebook/dp/B071G3652
 
 The Hitchhiker's Guide to Python: Best Practices for Development 1st Edition, Kindle Edition
 by Kenneth Reitz (Author), Tanya Schlusser (Author)
+Looks good, abet being kindle.
 price: $12.99 kindle (amazon - Sep 15, 2017)
