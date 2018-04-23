@@ -33,6 +33,9 @@ http://pythonexample.com/code/python-get-request/
 Python HOWTOs
 https://docs.python.org/3/howto/index.html
 
+Python - Ref
+http://python.zirael.org/ch-dynamic_pages.html
+
 re — Regular expression operation
 The Python Standard Library
 https://docs.python.org/2/library/re.html
