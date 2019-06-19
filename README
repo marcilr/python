@@ -26,3 +26,6 @@ python.txt
 
 src/
   Source code
+
+syntax/
+  Syntax
