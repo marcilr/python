@@ -9,10 +9,6 @@ Installation of pip (Python package installer)
 python-pip - alternative Python package installer
 
 
-Red Hat
-=======
-
-
 Debian
 ======
 malachite:~# aptitude install python-pip
@@ -107,11 +103,3 @@ malachite:~#
 
 
 Pretty straightforward.
-
-
-Links
-=====
-How to install pip on Red Hat Enterprise Linux?
-SOLUTION VERIFIED - Updated March 15 2019 at 6:53 AM - English
-https://access.redhat.com/solutions/1519803
-
