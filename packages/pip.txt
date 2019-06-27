@@ -6,6 +6,13 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 pip - A tool for installing and managing Python packages
 
 
+'PIP is a recursive acronym that stands for “PIP Installs
+Packages” or “Preferred Installer Program”.  It’s a
+command-line utility that allows you to install, reinstall,
+ or uninstall PyPI packages with a simple and
+ straightforward command: pip.'
+--www.makeuseof.com/tag/install-pip-for-python/
+
 Synopsys
        pip <command> [options]
 
@@ -46,3 +53,9 @@ Commands
        wheel  Build wheels from your requirements.
 
 --man
+
+
+Links
+=====
+What Is PIP for Python?
+https://www.makeuseof.com/tag/install-pip-for-python/
