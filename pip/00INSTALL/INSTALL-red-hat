@@ -14,6 +14,18 @@ Red Hat
 ...
 
 
+intdev
+======
+$ python --version
+Python 2.6.6
+$
+
+# yum list | grep python-pip
+#
+
+Still need syntax...
+
+
 Links
 =====
 How to install pip on Red Hat Enterprise Linux?
