@@ -1,0 +1,22 @@
+INSTALL-red-hat
+Created Sat Sep 16 10:27:08 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Installation of pip (Python package installer)
+
+
+python-pip - alternative Python package installer
+
+
+Red Hat
+=======
+...
+
+
+Links
+=====
+How to install pip on Red Hat Enterprise Linux?
+SOLUTION VERIFIED - Updated March 15 2019 at 6:53 AM - English
+https://access.redhat.com/solutions/1519803
+
