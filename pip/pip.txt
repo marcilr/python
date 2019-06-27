@@ -12,16 +12,20 @@ Synopsys
        pip3 <command> [options]
 
 Description
-       pip  is  a  Python package installer, recommended for installing Python packages which are
-       not available in the Debian archive.  It can work with version control repositories  (cur‐
-       rently  only  Git,  Mercurial, and Bazaar repositories), logs output extensively, and pre‐
-       vents partial installs by downloading all requirements before starting installation.
+       pip  is  a  Python package installer, recommended for installing
+       Python packages which are not available in the Debian archive.
+       It can work with version control repositories (currently only Git,
+       Mercurial, and Bazaar repositories), logs output extensively, and
+       prevents partial installs by downloading all requirements before
+       starting installation.
 
-       On Debian, pip is the command to use when installing packages for Python 2, while pip3  is
-       the command to use when installing packages for Python 3.
+       On Debian, pip is the command to use when installing packages for
+       Python 2, while pip3 is the command to use when installing packages
+       for Python 3.
 
 Commands
-       The command comes before any options.  The following commands are recognized:
+       The command comes before any options.  The following commands are
+       recognized:
 
        help   Show help for commands.
 
