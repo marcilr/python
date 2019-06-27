@@ -17,7 +17,7 @@ links.txt
 mysql/
   MySQL database access
 
-packages/
+pip/
   Python packages
 
 python.txt
