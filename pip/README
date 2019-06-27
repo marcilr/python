@@ -5,7 +5,7 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
-INSTALL
+00INSTALL/
   Installation of pip (Python package installer)
   python-pip - alternative Python package installer
   # aptitude install python-pip
