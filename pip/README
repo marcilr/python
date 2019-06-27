@@ -10,5 +10,8 @@ INSTALL
   python-pip - alternative Python package installer
   # aptitude install python-pip
 
+packages.txt
+  pip related packages
+
 pip.txt
   pip - A tool for installing and managing Python packages
