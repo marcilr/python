@@ -1,0 +1,13 @@
+links.txt
+Created Thu Jun 27 14:22:34 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Module related links
+
+
+Links
+=====
+Python Modules and Packages – An Introduction
+by John Sturtz
+https://realpython.com/python-modules-packages/
