@@ -13,7 +13,7 @@ docs/
 
 epel/
   Python EPEL (Extra Packages for Enterprise Linux)
-  Dependency of Selenium for web page testing
+  Dependency of selenium for web page testing
 
 links.txt
   Python related links
