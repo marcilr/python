@@ -29,6 +29,13 @@ mysql/
 
 pip/
   Python package installer
+  A tool for installing and managing Python packages
+  pip is a Python package installer, recommended for installing
+  Python packages which are not available in the Debian archive.
+  It can work with version control repositories (currently only Git,
+  Mercurial, and Bazaar repositories), logs output extensively, and
+  prevents partial installs by downloading all requirements before
+  starting installation.
 
 python.txt
   Python
