@@ -28,7 +28,7 @@ mysql/
   MySQL database access
 
 pip/
-  Python packages
+  Python package installer
 
 python.txt
   Python
