@@ -39,6 +39,7 @@ pip/
   Mercurial, and Bazaar repositories), logs output extensively, and
   prevents partial installs by downloading all requirements before
   starting installation.
+  ssh://git@github.com/marcilr/pip
 
 python.txt
   Python
