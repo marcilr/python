@@ -1,0 +1,14 @@
+# .gitignore
+# Created Wed Aug 14 11:32:56 AKDT 2019
+# by Raymond E. Marcil <rmarcil@gci.com>
+#
+# Files for git to ignore
+#
+# Links
+# =====
+# gitignore - Specifies intentionally untracked files to ignore
+# https://git-scm.com/docs/gitignore
+#
+.gitignore
+epel/
+pip/
