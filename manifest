@@ -20,4 +20,6 @@
 # =====================================================================
 ssh://git@github.com/marcilr/epel             epel
 ssh://git@github.com/marcilr/pip              pip
-ssh://dnratwtfsp:22/Sandboxes/_git/selenium   selenium-dnr
+# ssh://dnratwtfsp:22/Sandboxes/_git/selenium   selenium-dnr
+ssh://git@github.com/marcilr/selenium         selenium
+
