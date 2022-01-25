@@ -12,3 +12,4 @@
 .gitignore
 epel/
 pip/
+selenium/
