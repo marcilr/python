@@ -20,6 +20,10 @@
 # =====================================================================
 ssh://git@github.com/marcilr/epel             epel
 ssh://git@github.com/marcilr/pip              pip
+
+# replacenth - python function to replace nth occurrence of string with another
+ssh://git@github.com/marcilr/replacenth       replacenth
+
 # ssh://dnratwtfsp:22/Sandboxes/_git/selenium   selenium-dnr
 ssh://git@github.com/marcilr/selenium         selenium
 
